@@ -93,6 +93,6 @@
 more blog posts on  [Medium](https://medium.com/@sirajul.anik)
 
 
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=ssi-anik&color=dc143c&label=Views&color=lightgrey&style=flat" alt="ssi-anik" />
 </p>
