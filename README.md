@@ -84,10 +84,11 @@
 ### Check my latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“docker.for.linux.localhost”?! — Docker connect to host machine from a docker container in Linux](https://medium.com/@sirajul.anik/docker-for-linux-localhost-docker-connect-to-host-machine-from-a-docker-container-in-linux-fa42b00f161e?source=rss-30df32209d0------2)
+- [Composer — require a PHP package from a local or remote repository](https://medium.com/@sirajul.anik/composer-require-a-php-package-from-a-local-or-remote-repository-7e641bdbc824?source=rss-30df32209d0------2)
 - [Install TablePlus on Ubuntu [18.04 — Bionic Beaver] or possibly above.](https://medium.com/@sirajul.anik/install-tableplus-on-ubuntu-18-04-bionic-beaver-or-possibly-above-71ded35b14c7?source=rss-30df32209d0------2)
 - [Sign in with Apple & verify mobile app payload, under 5 minutes* for backend developers.](https://medium.com/@sirajul.anik/sign-in-with-apple-verify-mobile-app-payload-under-5-minutes-for-backend-developers-d69c2217ddec?source=rss-30df32209d0------2)
 - [Understanding the tymon/jwt-auth refresh token mechanism. When & why JWT_TTL, JWT_REFRESH_TTL.](https://medium.com/@sirajul.anik/understanding-the-tymon-jwt-auth-refresh-token-mechanism-when-why-jwt-ttl-jwt-refresh-ttl-97cc0019c02f?source=rss-30df32209d0------2)
-- [API gateway — Authenticating user without DB storage in Laravel/Lumen](https://medium.com/@sirajul.anik/api-gateway-authenticating-user-without-db-storage-in-laravel-lumen-3ef1c1f300d3?source=rss-30df32209d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 more blog posts on  [Medium](https://medium.com/@sirajul.anik)
