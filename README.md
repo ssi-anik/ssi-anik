@@ -91,7 +91,7 @@
 - [Sign in with Apple & verify mobile app payload, under 5 minutes* for backend developers.](https://medium.com/@sirajul.anik/sign-in-with-apple-verify-mobile-app-payload-under-5-minutes-for-backend-developers-d69c2217ddec?source=rss-30df32209d0------2)
 <!-- BLOG-POST-LIST:END -->
 
-more blog posts on  [Medium](https://medium.com/@sirajul.anik)
+... more blog posts on  [Medium](https://medium.com/@sirajul.anik)
 
 
 <p align="right">
