@@ -88,7 +88,6 @@
 - [SSH Tunneling — Exposing local applications to the internet!!!](https://medium.com/@sirajul.anik/ssh-tunneling-exposing-local-applications-to-the-internet-d7f3f5a00229?source=rss-30df32209d0------2)
 - [PostgreSQL bulk update sequence IDs](https://medium.com/@sirajul.anik/postgresql-bulk-update-sequence-ids-e839d31e9bbb?source=rss-30df32209d0------2)
 - [“docker.for.linux.localhost”?! — Docker connect to host machine from a docker container in Linux](https://medium.com/@sirajul.anik/docker-for-linux-localhost-docker-connect-to-host-machine-from-a-docker-container-in-linux-fa42b00f161e?source=rss-30df32209d0------2)
-- [Composer — require a PHP package from a local or remote repository](https://medium.com/@sirajul.anik/composer-require-a-php-package-from-a-local-or-remote-repository-7e641bdbc824?source=rss-30df32209d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ... more blog posts on  [Medium](https://medium.com/@sirajul.anik)
