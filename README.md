@@ -67,7 +67,7 @@
                 <img alt="terminal" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
                 <img alt="kubernetes" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
                 <img alt="graphql" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
-                <img alt="mercure" height="25" src="https://raw.githubusercontent.com/dunglas/mercure/dc6a34ff0fee12d8c35484dcfc6bd3c392e14311/public/mercure.svg">
+                <img alt="mercure" height="25" src="https://raw.githubusercontent.com/ssi-anik/mercure/895b2c197dcdd6415b1078dae03dae372f1df236/icons/mercure.svg">
             </td>
             <td>
                 <img alt="elasticsearch" height="25" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png">
