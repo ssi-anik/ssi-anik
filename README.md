@@ -89,7 +89,6 @@
 - [Publish messages to dunglas/mercure from any PHP-Based Application including Laravel/Lumen…](https://medium.com/@sirajul.anik/publish-messages-to-dunglas-mercure-from-any-php-based-application-including-laravel-lumen-7923dadfc949?source=rss-30df32209d0------2)
 - [Server-Sent Events with Mercure in Laravel/Lumen](https://medium.com/@sirajul.anik/server-sent-events-with-mercure-in-laravel-lumen-14ddc41d3f15?source=rss-30df32209d0------2)
 - [GraphQL by night — Implementing GraphQL Subscription with Laravel/Lumen](https://medium.com/@sirajul.anik/graphql-by-night-implementing-graphql-subscription-with-laravel-lumen-bdbb5f630704?source=rss-30df32209d0------2)
-- [GraphQL by night — Implementing GraphQL with Laravel/Lumen](https://medium.com/@sirajul.anik/graphql-by-night-implementing-graphql-with-laravel-lumen-262893022234?source=rss-30df32209d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ... more blog posts on  [Medium](https://medium.com/@sirajul.anik)
