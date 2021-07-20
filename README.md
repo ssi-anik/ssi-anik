@@ -73,6 +73,7 @@
                 <img alt="mercure" height="25" src="https://raw.githubusercontent.com/ssi-anik/mercure/895b2c197dcdd6415b1078dae03dae372f1df236/icons/mercure.svg">
             </td>
             <td>
+                <img alt="css" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png">
                 <img alt="elasticsearch" height="25" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png">
                 <img alt="css" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
                 <img alt="sass" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
