@@ -6,10 +6,7 @@
 - Started as full time developer since 2016.
 - Writing codes in various languages since 2011.
 - **PHP** is 💕 and Laravel/Lumen is the **bread and butter** for me.
-- I write APIs since 2016.
-<!--
 - I write APIs since 2016, I did know a bit but now I don't know **CSS**.
--->
 
 ### Things I do & like
 
@@ -84,6 +81,8 @@
         </tr>
     </tbody>
 </table>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssi-anik&theme=blood&hide_border=true)](https://git.io/streak-stats)
 
 
 ### Check my latest blog posts
