@@ -82,7 +82,7 @@
     </tbody>
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssi-anik&theme=blood&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssi-anik&theme=blood&hide_border=true&date_format=M%20j)](https://git.io/streak-stats)
 
 
 ### Check my latest blog posts
