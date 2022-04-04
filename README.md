@@ -1,8 +1,8 @@
 ## Hi, My name is ~~khan~~ Syed Sirajul Islam
 
 - Prefered to be called by the name **Anik** (pronounced as **aww-nick**).
-- Currently employed at **[DHS](https://dh.health/)**, previously known as **Telenor Health Bangladesh** as a software engineer.
-- Prevoiusly I worked at **[Pathao](https://pathao.com/?lang=en)** and **GagaGugu** AKA **P1**.
+- Currently employed at **[sender.net](https://sender.net/)**, as a software engineer.
+- Prevoiusly I worked at **[DHS (Telenor Health Bangladesh)](https://dh.health/)**, **[Pathao](https://pathao.com/?lang=en)** and **GagaGugu** AKA **P1**.
 - Started as full time developer since 2016.
 - Writing codes in various languages since 2011.
 - **PHP** is 💕 and Laravel/Lumen is the **bread and butter** for me.
@@ -13,7 +13,7 @@
 - Whenever I find that there is no package available for what I'm doing, I write it of my own. Or write one if I think will help others.
 - Whenever I learn a new thing, I try to write articles on that topic. So that others can learn easily from my articles.
 - I write packages & articles which are **free of all charges**.
-- During my leisure time, I browse facebook, listen to songs and play Fifa online [I know I can't play 🙄] on my PS4.
+- During my leisure time, I browse facebook, listen to songs and play Fifa online (I know I can't play 🙄) on my PS console.
 
 
 ### Reach me out
