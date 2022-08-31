@@ -1,19 +1,42 @@
-## Hi, My name is ~~khan~~ Syed Sirajul Islam
+## Hi, I am Syed Sirajul Islam
+
+<table cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td>
+        <h4>Open to REMOTE position</h4>
+        <ul>
+          <li><b>Backend engineer</b> is the first priority. Full-stack otherwise.</li>
+          <li>Can overlap <b>at least 4 hours</b> in any <i>timezone</i>.</li>
+          <li>Reach out to me <a href="#reach-me-out">using this link</a></li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 - Prefered to be called by the name **Anik** (pronounced as **aww-nick**).
-- Currently employed at **[sender.net](https://sender.net/)**, as a software engineer.
-- Prevoiusly I worked at **[DHS (Telenor Health Bangladesh)](https://dh.health/)**, **[Pathao](https://pathao.com/?lang=en)** and **GagaGugu** AKA **P1**.
+- Currently employed at **[sender.net](https://sender.net/)**, as a senior software engineer.
+- Prevoiusly I worked for
+  * **[DHS (Telenor Health Bangladesh)](https://dh.health/)**
+  * **[Pathao](https://pathao.com/?lang=en)**
+  * **GagaGugu** AKA **P1**.
 - Started as full time developer since 2016.
 - Writing codes in various languages since 2011.
-- **PHP** is 💕 and Laravel/Lumen is the **bread and butter** for me.
-- I write APIs since 2016, I did know a bit but now I don't know **CSS**.
+- I have been writing **PHP** since 2013 and **Laravel** since 2014.
+- I write APIs since 2016, and I am writing a lot since then. <!-- I did know a bit but now I don't know **CSS**. -->
 
 ### Things I do & like
 
 - Whenever I find that there is no package available for what I'm doing, I write it of my own. Or write one if I think will help others.
 - Whenever I learn a new thing, I try to write articles on that topic. So that others can learn easily from my articles.
 - I write packages & articles which are **free of all charges**.
-- During my leisure time, I browse facebook, listen to songs and play Fifa online (I know I can't play 🙄) on my PS console.
+- During my leisure time, I browse the internet and play Fifa online (I know I can't play 🙄) on my PS console.
 
 
 ### Reach me out
