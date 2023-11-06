@@ -113,11 +113,11 @@
 ### Check my latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Route/Router/Routing in Laravel. How is it registered?](https://medium.com/@sirajul.anik/understanding-route-router-routing-in-laravel-how-is-it-registered-8c3244631af3?source=rss-30df32209d0------2)
 - [Article Indexes](https://medium.com/@sirajul.anik/article-indexes-0ed9e99ff434?source=rss-30df32209d0------2)
 - [Laravel/Lumen Article Index](https://medium.com/@sirajul.anik/laravel-lumen-article-index-0bbbffd8e981?source=rss-30df32209d0------2)
 - [PHP Article Index](https://medium.com/@sirajul.anik/php-article-index-66caabbca2ca?source=rss-30df32209d0------2)
 - [Tech Misc Article Index](https://medium.com/@sirajul.anik/tech-misc-article-index-1555acbd0703?source=rss-30df32209d0------2)
-- [Database/Message Queue/Pubsub Article Index](https://medium.com/@sirajul.anik/database-message-queue-pubsub-article-index-91a639a50d33?source=rss-30df32209d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ... more blog posts on  [Medium](https://medium.com/@sirajul.anik)
